@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=150&fontAlign=70&fontColor=c9c9c9&fontAlign=50&text=BusinessAnalyst)
+![header](https://capsule-render.vercel.app/api?type=waving&height=150)
+
+Hi, I'm EunJeong
 
  <div align=center>
   
