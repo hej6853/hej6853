@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently in USC Data Analysis & Visualization Bootcamp 
 
-- ⚡ I love traveling, hiking, learning new languages, reading books with a piece of nice and calm music, and cooking delicious Korean food.   
+- ⚡ I love traveling, hiking, learning new languages, reading books with a piece of nice music, and cooking delicious Korean food.   
   
   </div>  
 
