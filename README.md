@@ -3,20 +3,10 @@
  <div align=center>
   
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&align=&link=mailto:hej6853@gmail.com)](mailto:hej6853@gmail.com)
-
- </div>
-
- <div align=center>
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-2a7bdd?style=flat-square&logo=LinkedIn&logoColor=white&Align=50&link=https://www.linkedin.com/in/eunjeongheo/)](https://www.linkedin.com/in/eunjeongheo/)
-
- </div>
-
-
- <div align=center>
-  
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&al&logo=instagram&logoColor=white&Align=50&link=https://www.instagram.com/revlisjeong/)](https://www.instagram.com/revlisjeong/)
 
- </div>
+</div>
 
 ![EunJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hej6853&theme=dracula&show_icons=true)           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hej6853&layout=compact&bg_color=282a36&title_color=ff6e96&text_color=f8f8f2)](https://github.com/anuraghazra/github-readme-stats)
 
