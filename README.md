@@ -1,9 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=150)
-
+👋 Hi, I’m EunJeong
+_______________
 
 ![EunJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hej6853&theme=dracula&show_icons=true)
 
-- 👋 Hi, I’m @hej6853
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
