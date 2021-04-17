@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=150&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&height=150&fontAlign=70&fontColor=c9c9c9&fontAlign=50&text=BusinessAnalyst)
 
  <div align=center>
   
