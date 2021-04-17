@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=150)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hej6853@gmail.com)](mailto:hej6853@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-2a7bdd?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/eunjeongheo/)](https://www.linkedin.com/in/eunjeongheo/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/revlisjeong/)](https://www.instagram.com/revlisjeong/)
+![header](https://capsule-render.vercel.app/api?type=waving&height=150&fontAlign=70)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&fontAlign=70&link=mailto:hej6853@gmail.com)](mailto:hej6853@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-2a7bdd?style=flat-square&logo=LinkedIn&logoColor=white&fontAlign=70&link=https://www.linkedin.com/in/eunjeongheo/)](https://www.linkedin.com/in/eunjeongheo/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&fontAlign=70&link=https://www.instagram.com/revlisjeong/)](https://www.instagram.com/revlisjeong/)
 
 
 ![EunJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hej6853&theme=dracula&show_icons=true)
@@ -14,5 +14,5 @@
 hej6853/hej6853 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhitcounter&count_bg=%23DB9FFF&title_bg=%237A598E&icon=civicrm.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-![reversal](https://capsule-render.vercel.app/api?type=waving&height=150&reversal=tfalse)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhitcounter&count_bg=%23DB9FFF&title_bg=%237A598E&icon=civicrm.svg&fontAlign=70&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
