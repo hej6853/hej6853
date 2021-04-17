@@ -12,6 +12,7 @@
 
 ### <div align="center">Hi, I'm EunJeong, a Business Intelligence Analyst👨‍💻 </div>  
 
+
 - 🔭 I’m a graduate student studying Supply Chain Analytics at Oregon State University 
 
 - 🌱 I’m currently in USC Data Analysis & Visualization Bootcamp 
