@@ -1,14 +1,27 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=150)
-
-Hi, I'm EunJeong
-
- <div align=center>
+<div align="center">
+ 
+  <div align=center>
   
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&align=&link=mailto:hej6853@gmail.com)](mailto:hej6853@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-2a7bdd?style=flat-square&logo=LinkedIn&logoColor=white&Align=50&link=https://www.linkedin.com/in/eunjeongheo/)](https://www.linkedin.com/in/eunjeongheo/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&al&logo=instagram&logoColor=white&Align=50&link=https://www.instagram.com/revlisjeong/)](https://www.instagram.com/revlisjeong/)
 
 </div>
+ 
+
+### <div align="center">Hi, I'm EunJeong, a Business Intelligence Analyst👨‍💻 </div>  
+
+- 🔭 I’m a graduate student studying Supply Chain Analytics at Oregon State University 
+
+- 🌱 I’m currently in USC Data Analysis & Visualization Bootcamp 
+
+- ⚡ I love traveling, hiking, learning new languages, reading books with a piece of nice and calm music, and cooking delicious Korean food.   
+  
+
+
+
+
 
  <div align=center>
 
