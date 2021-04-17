@@ -1,5 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=150)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hej6853@gmail.com)](mailto:hej6853@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-2a7bdd?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/eunjeongheo/)](https://www.linkedin.com/in/eunjeongheo/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/revlisjeong/)](https://www.instagram.com/revlisjeong/)
+
+
+
 
 
 
