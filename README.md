@@ -4,9 +4,9 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&fontAlign=70&link=https://www.instagram.com/revlisjeong/)](https://www.instagram.com/revlisjeong/)
 
 
-![EunJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hej6853&theme=dracula&show_icons=true)
+![EunJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hej6853&theme=dracula&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hej6853&layout=compact&bg_color=282a36&title_color=ff6e96&text_color=f8f8f2)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hej6853&layout=compact&bg_color=282a36&title_color=ff6e96&text_color=f8f8f2)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
