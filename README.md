@@ -1,4 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=150)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hej6853@gmail.com)](mailto:hej6853@gmail.com)
+
+
 
 
 ![EunJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hej6853&theme=dracula&show_icons=true)
