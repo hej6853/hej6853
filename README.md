@@ -24,6 +24,10 @@
 🌱 I’m currently in USC Data Analysis & Visualization Bootcamp 
 
 ⚡ I love traveling, hiking, learning new languages, reading books with a piece of nice music, and cooking delicious Korean food.   
+ 
+🤝 If you're looking for someone who has experience in Business and Supply Chain Analysis, let's connect!
+ 
+📧 eunjeong.heo95@gmail.com
   
   </div>  
 
