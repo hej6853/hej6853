@@ -10,7 +10,7 @@
  
 
 ### <div align="center">Hi, I'm EunJeong, a Business Intelligence Analyst👨‍💻 </div> 
-### <div align="center">eunjeong.heo95@gmail.com👨‍💻 </div> 
+### <div align="center">eunjeong.heo95@gmail.com </div> 
 
 
 <div align="left">
