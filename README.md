@@ -9,16 +9,21 @@
 </div>
  
 
-### <div align="center">Hi, I'm EunJeong, a Business Intelligence Analyst👨‍💻 </div>  
+### <div align="center">Hi, I'm EunJeong, a Business Intelligence Analyst👨‍💻 </div> 
+### <div align="center">eunjeong.heo95@gmail.com👨‍💻 </div> 
 
 
 <div align="left">
 
-- 🔭 I’m a graduate student studying Supply Chain Analytics at Oregon State University 
+👩🏻‍🎓 I graduated from Oregon State University in June 2021 and acquired a Master of Sciecne in Business concentration in Supply Chain Analytics degree.
 
-- 🌱 I’m currently in USC Data Analysis & Visualization Bootcamp 
+👾 I am excited to leverage data analysis, visualization, and interpretation in a collaborative environment as an analyst in the business sector.
 
-- ⚡ I love traveling, hiking, learning new languages, reading books with a piece of nice music, and cooking delicious Korean food.   
+❤️ I LOVE analyzing business issues using data analysis tools such as Python, R, SQL, Tableau, etc.
+
+🌱 I’m currently in USC Data Analysis & Visualization Bootcamp 
+
+⚡ I love traveling, hiking, learning new languages, reading books with a piece of nice music, and cooking delicious Korean food.   
   
   </div>  
 
