@@ -19,7 +19,7 @@
 
 👾 I am excited to leverage data analysis, visualization, and interpretation in a collaborative environment as an analyst in the business sector.
 
-❤️ I LOVE analyzing business issues using data analysis tools such as Python, R, SQL, Tableau, etc.
+❤️ I LOVE analyzing business issues using data analysis tools such as Python, R, SQL, Tableau, JavaScript, MongoDB etc.
 
 🌱 I’m currently in USC Data Analysis & Visualization Bootcamp 
 
@@ -36,10 +36,8 @@
 
  <div align=center>
 
-![EunJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hej6853&theme=dracula&show_icons=true) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hej6853&layout=compact&bg_color=282a36&title_color=ff6e96&text_color=f8f8f2)
- 
-
+![EunJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hej6853&theme=cobalt&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hej6853&langs_count=8&bg_color=193549&title_color=E884DA&text_color=68D3A3)
 </div>
 
 
