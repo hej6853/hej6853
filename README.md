@@ -15,18 +15,23 @@
 
 <div align="left">
 
-👩🏻‍🎓 I graduated from Oregon State University in June 2021 and acquired a Master of Sciecne in Business concentration in Supply Chain Analytics degree.
+I’m a Technical Product Manager, passionate about leveraging data-driven insights to solve complex business challenges!
 
-👾 I am excited to leverage data analysis, visualization, and interpretation in a collaborative environment as an analyst in the business sector.
+🚀 Passionate About Data & Product Management
+I thrive in roles where I can apply data analysis, visualization, and interpretation to drive strategic decisions. Whether it's leading the development of Data Science solutions that save millions or optimizing processes to enhance user experiences, I love turning data into actionable business solutions.
 
-❤️ I LOVE analyzing business issues using data analysis tools such as Python, R, SQL, Tableau, JavaScript, MongoDB etc.
+💡 Technical Expertise & Continuous Learning
+My technical toolkit includes Python, SQL, Tableau, and more. I've also expanded my expertise through the USC Data Analysis & Visualization Bootcamp, where I honed my data analysis, machine learning, LLM, NLP and visualization skills. I'm always eager to learn and apply the latest tools and techniques.
 
-🌱 I’m currently in USC Data Analysis & Visualization Bootcamp 
+🌟 Collaborative & Impact-Driven
+Collaboration is at the heart of my approach. I enjoy working in dynamic, cross-functional teams to deliver products that make a significant impact. From reducing operational costs to enhancing customer satisfaction, I aim to create value at every step.
 
-⚡ I love traveling, hiking, learning new languages, reading books with a piece of nice music, and cooking delicious Korean food.   
- 
-🤝 If you're looking for someone who has experience in Business and Supply Chain Analysis, let's connect!
- 
+🌍 Beyond Work
+Outside of my professional life, I’m an avid traveler and hiker who loves learning new languages and cultures. I also enjoy finding the perfect soundtrack for a good book.
+
+🤝 Let's Connect!
+If you're looking for someone with a strong product management, data science, and business analysis background, I’d love to connect with you and explore how we can collaborate to achieve great things.
+
 📧 eunjeong.heo95@gmail.com
   
   </div>  
